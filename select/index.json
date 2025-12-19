@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "not the same",
+  "base_artist": "ROSÉ",
+  "createdAt": "2025-12-19T17:39:58.355844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Life Is Not The Same",
+      "artist": "James Blake",
+      "has_synced": true,
+      "path": "select/01_Life_Is_Not_The_Same_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Not The Same (feat. Young Thug)",
+      "artist": "Lil Duke feat. Young Stoner Life & Young Thug",
+      "has_synced": false,
+      "path": "select/02_Not_The_Same_(feat._Young_Thug)_Lil_Duke_feat._Young_Stoner_Life_&_Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Not The Same (feat. Young Thug)",
+      "artist": "Lil Duke, Young Stoner Life",
+      "has_synced": false,
+      "path": "select/03_Not_The_Same_(feat._Young_Thug)_Lil_Duke,_Young_Stoner_Life.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Not The Same",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/04_Not_The_Same_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We're Not the Same",
+      "artist": "Wolf Alice",
+      "has_synced": true,
+      "path": "select/05_We're_Not_the_Same_Wolf_Alice.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's Not The Same For Us",
+      "artist": "Level 42",
+      "has_synced": false,
+      "path": "select/06_It's_Not_The_Same_For_Us_Level_42.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Not The Same",
+      "artist": "Dinosaur Jr.",
+      "has_synced": true,
+      "path": "select/07_Not_The_Same_Dinosaur_Jr..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Not The Same",
+      "artist": "Dinosaur Jr",
+      "has_synced": false,
+      "path": "select/08_Not_The_Same_Dinosaur_Jr.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It's Not The Same Moon",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/09_It's_Not_The_Same_Moon_Sting.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ur Not The Same Featuring Akon",
+      "artist": "T-Pain",
+      "has_synced": true,
+      "path": "select/10_Ur_Not_The_Same_Featuring_Akon_T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ur Not The Same (Feat. Akon)",
+      "artist": "T-Pain",
+      "has_synced": true,
+      "path": "select/11_Ur_Not_The_Same_(Feat._Akon)_T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Not The Same Anymore",
+      "artist": "The Strokes",
+      "has_synced": true,
+      "path": "select/12_Not_The_Same_Anymore_The_Strokes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Not the Same",
+      "artist": "Days of the New",
+      "has_synced": true,
+      "path": "select/13_Not_the_Same_Days_of_the_New.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Not the Same (feat. The Spartones from Greensboro, NC) - University A Cappella Version",
+      "artist": "Ben Folds feat. The Spartones from Greensboro, NC",
+      "has_synced": true,
+      "path": "select/14_Not_the_Same_(feat._The_Spartones_from_Greensboro,_NC)_-_University_A_Cappella_V_Ben_Folds_feat._The_Spartones_from_Greensboro,_NC.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Not the Same",
+      "artist": "The Spartones from Greensboro, NC",
+      "has_synced": true,
+      "path": "select/15_Not_the_Same_The_Spartones_from_Greensboro,_NC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "not the same",
+      "artist": "ROSÉ",
+      "has_synced": false,
+      "path": "select/pl_01_not_the_same_ROSÉ.txt"
+    }
+  ]
+}
